@@ -48,6 +48,8 @@ cd build-ml-pipeline-for-short-term-rental-prices
 ```
 Commit and push to the repository often while you make progress towards the solution. Remember 
 to add meaningful commit messages.
+### Weight & Biasis Pipeline Results
+The pipeline results and runs could be found in the following [link](https://wandb.ai/jawherjabri2000/nyc_airbnb)
 
 ### Create environment
 Make sure to have conda installed and ready, then create a new environment using the ``environment.yml``
